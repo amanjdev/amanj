@@ -1,2 +1,1 @@
-#amanjalkurdi
-###testno
+# amanj
